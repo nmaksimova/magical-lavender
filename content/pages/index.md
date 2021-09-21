@@ -131,7 +131,7 @@ sections:
     form:
       type: FormBlock
       idAttr: contact-form
-      destination: natasha@stackbit.com
+      destination: nataliia.maksimova@gmail.com
       action: /.netlify/functions/submission_created
       fields:
         - type: TextFormControl
